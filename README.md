@@ -1,6 +1,6 @@
 # NASA-FINESST-Resources-Guide-Links
 
-Almost the most comprehensive guide for FINESST proposals—links, tips, guide, and examples.
+**Not** the most comprehensive guide for FINESST proposals—links, tips, guide, and examples.
 
 **Keywords:**
 
